@@ -48,6 +48,7 @@ The KDCH Hospital App is a mobile application designed for the Kozhikode Distric
 <img src="https://github.com/user-attachments/assets/86b6d857-bed5-4e22-85e9-e48ae8cc4786" alt="Settings" width="100" height="300" />
 <img src="https://github.com/user-attachments/assets/748c8b11-7ebe-4b0e-abf2-956eb6343da7" alt="Profile" width="100" height="300" />
 <img src="https://github.com/user-attachments/assets/d8ca2f25-02e9-43e3-bf78-fad54ea7444f" alt="Resheduling" width="100" height="300" />
+<img src="https://github.com/user-attachments/assets/b9f5275c-f844-41d9-a005-140c28d3a2ba" alt="Forgot password" width="100" height="300" />
 
 * Login Screen: Displays the KDCH logo, UID and password fields, and a "Sign In" button.
 * Dashboard: Shows a grid layout with icons and labels for various services.
