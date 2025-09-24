@@ -26,9 +26,7 @@ Checkups/Packages: Detailed view of available health checkup packages with booki
 
 # Screenshots
 
-![Screenshot_20250924-125128](https://github.com/user-attachments/assets/c0ee5627-b87c-4d9f-9194-dcfb91a7a102)
 <img src="https://github.com/user-attachments/assets/c0ee5627-b87c-4d9f-9194-dcfb91a7a102" alt="Login Screen" width="300" height="600" />
-![Screenshot_20250924-125132](https://github.com/user-attachments/assets/a90f3e0a-ba04-46dc-868e-097d43d45cc3)
 <img src="https://github.com/user-attachments/assets/c0ee5627-b87c-4d9f-9194-dcfb91a7a102" alt="Login Screen" width="300" height="600" />
 
 
